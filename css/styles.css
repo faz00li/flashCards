@@ -1,0 +1,20 @@
+
+.function-text {
+  display: none;
+}
+
+.variable-text  {
+  display: none;
+}
+
+.method-text  {
+  display: none;
+}
+
+.js-text {
+  display: none;
+}
+
+.card {
+  border-style: groove;
+}
